@@ -17,5 +17,7 @@ Skills: REACT / EXPO / JS / HTML / CSS / NoSQL / Adobe Suite
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MrYawnie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/janiandsten/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mryawne/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://janiandsten.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/imgur.svg' alt='imgur' height='40'>](https://imgur.com/user/MrYawnie/posts)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrYawnie)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrYawnie&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrYawnie&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrYawnie)](https://github.com/anuraghazra/github-readme-stats)
+
 
